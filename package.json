@@ -1,0 +1,44 @@
+{
+	"name": "sports-pool",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "webpack-dev-server --mode development --open",
+		"build": "webpack --mode production",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rayhatfield/sports-pool.git"
+	},
+	"keywords": [],
+	"author": "ray hatfield <ray.hatfield@gmail.com> (http://rayhatfield.io)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/rayhatfield/sports-pool/issues"
+	},
+	"homepage": "https://github.com/rayhatfield/sports-pool#readme",
+	"devDependencies": {
+		"@babel/cli": "^7.0.0",
+		"@babel/core": "^7.0.0",
+		"@babel/plugin-proposal-class-properties": "^7.0.0",
+		"@babel/plugin-proposal-export-default-from": "^7.0.0",
+		"@babel/preset-env": "^7.0.0",
+		"@babel/preset-react": "^7.0.0",
+		"babel-loader": "^8.0.4",
+		"css-loader": "^2.0.1",
+		"html-loader": "^0.5.5",
+		"html-webpack-plugin": "^3.2.0",
+		"mini-css-extract-plugin": "^0.5.0",
+		"node-sass": "^4.11.0",
+		"webpack": "^4.27.1",
+		"webpack-cli": "^3.1.2",
+		"webpack-dev-server": "^3.1.10"
+	},
+	"dependencies": {
+		"firebase": "^5.7.0",
+		"react": "^16.6.3",
+		"react-dom": "^16.6.3"
+	}
+}
