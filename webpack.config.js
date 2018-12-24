@@ -12,10 +12,6 @@ module.exports = {
 	module: {
 		rules: [
 			{
-				test: /\.worker.js$/,
-				use: 'worker-loader'
-			},
-			{
 				test: /\.(js|jsx)$/,
 				exclude: /node_modules/,
 				use: {
@@ -55,5 +51,6 @@ module.exports = {
 			template: './index.html',
 			filename: './index.html'
 		}),
-	]
+	],
+	devtool: 'eval-source-map'
 }

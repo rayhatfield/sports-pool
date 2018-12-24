@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './App';
+import './firebase';
+import View from './View';
 
-ReactDOM.render(<App />, document.getElementById('app-root'));
+ReactDOM.render(<View />, document.getElementById('app-root'));
