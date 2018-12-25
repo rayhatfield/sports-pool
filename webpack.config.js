@@ -4,7 +4,12 @@ const CssExtract = require('mini-css-extract-plugin');
 
 module.exports = {
 	context: path.resolve(__dirname, 'src'),
-	entry: './js/index.js',
+	entry: {
+		index: [
+			'../polyfills.js',
+			'./js/index.js'
+		]
+	},
 	resolve: {
 		modules: [path.resolve(__dirname, 'src/js'), 'node_modules'],
 		extensions: ['.js', '.json', '.jsx', '.scss']
