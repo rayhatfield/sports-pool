@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import EmailValidator from 'email-validator';
 
-import {createAccount} from './api';
+import {createAccount, logIn} from './api';
 
 export default class LoginView extends React.Component {
 
@@ -29,10 +29,19 @@ export default class LoginView extends React.Component {
 		}
 	}
 
-	signIn = e => {
+	signIn = async e => {
 		e.stopPropagation();
 		e.preventDefault();
 		console.log('log in');
+		const {email, password} = this.state;
+
+		try {
+			const user = await logIn(email, password);
+			console.log(user);
+		}
+		catch (e) {
+			console.error(e);
+		}
 	}
 
 	render () {
