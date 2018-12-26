@@ -1,0 +1,30 @@
+{
+	"users": { // collection
+		"alice": {}, // document
+		"bob": {},
+		"carl": {}
+	},
+	"leagues": { // collection
+		"nfl": { // document
+			"name": "NFL",
+			"teams": { // collection
+				"Arizona Cardinals": { // document
+					"home": "Arizona",
+					"name": "Cardinals"
+				}
+			}
+		}
+	},
+	"pools": { // collection
+		"horton-nfl-2018": { // document
+			"league": "nfl", // id?
+			"games": { // collection
+				"xxx": { // document
+					"home": "Arizona Cardinals",
+					"visitor": "San Diego Chargers",
+					"date": new Date(),
+				}
+			}
+		}
+	}
+}
