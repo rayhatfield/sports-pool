@@ -1,0 +1,19 @@
+.app-main-nav {
+	display: flex;
+	> * {
+		flex: 0 0 auto;;
+
+		a {
+			padding: 0.5em 1em;
+			text-decoration: none;
+			text-transform: uppercase;
+			font-size: 0.75rem;
+			letter-spacing: 2px;
+			transition: color .25s;
+
+			&.active {
+				color: var(--background-color);
+			}
+		}
+	}
+}

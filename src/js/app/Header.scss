@@ -1,0 +1,9 @@
+.app-main-header {
+	padding: 1rem;
+	background: var(--background-color-alt, tomato);
+	color: var(--text-color-alt, bisque);
+
+	a {
+		color: inherit;
+	}
+}

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import firebase from 'firebase';
 
 import {Loading} from 'common';
-import App from './App';
+import App from 'app';
 import Login from 'login';
 import connect from './Store';
 

@@ -1,0 +1,25 @@
+@import "variables";
+
+html {
+	font-family: "Gotham Narrow A", "Gotham Narrow B", Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+body {
+	background-color: var(--background-color);
+	color: var(--text-color);
+
+	a {
+		color: var(--text-color-secondary);
+	}
+
+	button {
+		appearance: none;
+		border: none;
+		padding: 0.5em 2em;
+		background: var(--background-color-alt);
+		color: var(--text-color-alt);
+	}
+}
