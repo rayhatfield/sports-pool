@@ -37,4 +37,6 @@ $color5: rgba(229, 220, 197, 1);
 	) {
 		@include makeColorVar($name, $color);
 	}
+
+	--border-radius: 3px;
 }

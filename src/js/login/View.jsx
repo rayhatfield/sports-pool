@@ -55,10 +55,11 @@ export default class LoginView extends React.Component {
 							type={field}
 							name={field}
 							value={this.state[field]}
+							placeholder={field}
 							onChange={this.onFieldChange} />
 					))}
 					<button disabled={!canSubmit} onClick={this.signIn}>Sign In</button>
-					<button disabled={!canSubmit} onClick={this.createAccount}>Create Account</button>
+					<button className="secondary" disabled={!canSubmit} onClick={this.createAccount}>Create Account</button>
 				</form>
 			</Page>
 		);
