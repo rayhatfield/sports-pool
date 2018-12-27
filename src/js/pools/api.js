@@ -1,5 +1,6 @@
 import {db} from 'app';
 
-export function getPools () {
-	return db.collection('pools').get();
+export async function getPools () {
+	const snap = await db.collection('pools').get();
+	return snap.docs || [];
 }
