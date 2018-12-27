@@ -14,14 +14,27 @@ $color3: rgba(132, 143, 165, 1);
 $color4: rgba(193, 73, 83, 1);
 $color5: rgba(229, 220, 197, 1);
 
-html {
-	--background-color: #{$color5};
+@mixin makeColorVar ($name, $color) {
+	// declare the css variable
+	--#{$name}: #{$color};
 
-	--text-color: #{$color1};
-	--text-color-secondary: #{$color2};
+	// explode the rgb components into another css variable as a
+	// comma-separated list. this allows us to derive a color with
+	// an alpha value via:
+	//     rgba(var(--variable-name-rgb), 0.5)
+	// because the variable is interpreted as the comma-separated r,g,b:
+	--#{$name}-rgb: #{red($color)}, #{green($color)}, #{blue($color)};
+}
 
-	--background-color-alt: #{$color1};
-	--text-color-alt: #{$color3};
-
-	--accent-color: #{$color4};
+:root {
+	@each $name, $color in (
+		background-color: $color5,
+		text-color: $color1,
+		text-color-secondary: $color2,
+		background-color-alt: $color1,
+		text-color-alt: $color3,
+		accent-color: $color4
+	) {
+		@include makeColorVar($name, $color);
+	}
 }
