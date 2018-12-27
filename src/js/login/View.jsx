@@ -4,6 +4,9 @@ import EmailValidator from 'email-validator';
 import {stopEvent as stop} from '../util';
 
 import {createAccount, logIn} from './api';
+import Page from './UnauthenticatedPage';
+
+import './View.scss';
 
 export default class LoginView extends React.Component {
 
@@ -44,18 +47,20 @@ export default class LoginView extends React.Component {
 		const canSubmit = email && password && EmailValidator.validate(email);
 
 		return (
-			<form className="login-form" onSubmit={this.signIn}>
-				{error && <div>Error</div>}
-				{['email', 'password'].map(field => (
-					<input key={field}
-						type={field}
-						name={field}
-						value={this.state[field]}
-						onChange={this.onFieldChange} />
-				))}
-				<button disabled={!canSubmit} onClick={this.signIn}>Sign In</button>
-				<button disabled={!canSubmit} onClick={this.createAccount}>Create Account</button>
-			</form>
+			<Page>
+				<form className="login-form" onSubmit={this.signIn}>
+					{error && <div>Error</div>}
+					{['email', 'password'].map(field => (
+						<input key={field}
+							type={field}
+							name={field}
+							value={this.state[field]}
+							onChange={this.onFieldChange} />
+					))}
+					<button disabled={!canSubmit} onClick={this.signIn}>Sign In</button>
+					<button disabled={!canSubmit} onClick={this.createAccount}>Create Account</button>
+				</form>
+			</Page>
 		);
 	}
 }
