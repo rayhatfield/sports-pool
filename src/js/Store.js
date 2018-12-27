@@ -1,5 +1,6 @@
-import React from 'react';
 import Emitter from 'events';
+
+import React from 'react';
 
 import {ensureObject} from './util';
 
@@ -38,7 +39,6 @@ export default function connect (propMap) {
 				}
 
 				onStoreChange = e => {
-					console.log('received store change. %o', e);
 					if (this.shouldUpdate(e)) {
 						this.forceUpdate();
 					}
@@ -48,7 +48,7 @@ export default function connect (propMap) {
 					return Object.entries(propMap).reduce((acc, [key, prop]) => {
 						acc[prop] = store.get(key);
 						return acc;
-					}, {store})
+					}, {store});
 				}
 
 				render () {
@@ -56,11 +56,13 @@ export default function connect (propMap) {
 					const props = {
 						...storeProps,
 						...this.props
-					}
+					};
 
-					return <Cmp {...props} />
+					return (
+						<Cmp {...props} />
+					);
 				}
 			}
 		);
-	}
+	};
 }

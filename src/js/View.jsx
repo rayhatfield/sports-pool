@@ -1,10 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import firebase from 'firebase';
 
+import firebase from 'firebase';
 import {Loading} from 'common';
 import App from 'app';
 import Login from 'login';
+
 import connect from './Store';
 
 export default
@@ -12,6 +13,10 @@ export default
 	user: 'user'
 })
 class View extends React.Component {
+	static propTypes = {
+		user: PropTypes.object,
+		store: PropTypes.object.isRequired
+	}
 
 	state = {}
 
@@ -19,8 +24,9 @@ class View extends React.Component {
 		const {store} = this.props;
 
 		firebase.auth().onAuthStateChanged(user => {
-			store.set({user})
-		})
+			store.set({user});
+		});
+
 		this.setState({ready: true});
 	}
 
@@ -29,10 +35,10 @@ class View extends React.Component {
 
 		return (
 			!ready
-			? <Loading />
-			: !user
-				? <Login />
-				: <App />
+				? <Loading />
+				: !user
+					? <Login />
+					: <App />
 		);
 	}
 }

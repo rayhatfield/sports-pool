@@ -6,14 +6,23 @@ import League from './League';
 
 export default class LeagueView extends React.Component {
 
+	static propTypes = {
+		match: PropTypes.shape({
+			match: PropTypes.shape({
+				url: PropTypes.string.isRequired,
+				path: PropTypes.string.isRequired
+			}).isRequired
+		})
+	}
+
 	render () {
-		const {match} = this.props;
+		const {match: {url, path}} = this.props;
 
 		return (
 			<div className="league-view">
 				(Leagues)
-				<Link to={`${match.url}/123`}>123</Link>
-				<Route path={`${match.path}/:id`} component={League} />
+				<Link to={`${url}/123`}>123</Link>
+				<Route path={`${path}/:id`} component={League} />
 			</div>
 		);
 	}

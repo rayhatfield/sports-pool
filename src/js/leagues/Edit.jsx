@@ -5,10 +5,14 @@ import Teams from './Teams';
 
 export default class Edit extends React.Component {
 
+	static propTypes = {
+		id: PropTypes.string
+	}
+
 	state = {}
 
 	render () {
-		const {name, teams = []} = this.state;
+		const {name} = this.state;
 
 		return (
 			<div className="league-edit">
