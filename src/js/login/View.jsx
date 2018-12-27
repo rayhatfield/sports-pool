@@ -1,6 +1,7 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import EmailValidator from 'email-validator';
+
+import {stopEvent as stop} from '../util';
 
 import {createAccount, logIn} from './api';
 
@@ -15,41 +16,36 @@ export default class LoginView extends React.Component {
 	}
 
 	createAccount = async e => {
-		e.stopPropagation();
-		e.preventDefault();
-		console.log('create account');
+		stop(e);
 
 		const {email, password} = this.state;
 		try {
-			const user = await createAccount(email, password);
-			console.log(user);
+			await createAccount(email, password);
 		}
-		catch (e) {
-			console.error(e);
+		catch (error) {
+			this.setState({error});
 		}
 	}
 
 	signIn = async e => {
-		e.stopPropagation();
-		e.preventDefault();
-		console.log('log in');
+		stop(e);
 		const {email, password} = this.state;
 
 		try {
-			const user = await logIn(email, password);
-			console.log(user);
+			await logIn(email, password);
 		}
-		catch (e) {
-			console.error(e);
+		catch (error) {
+			this.setState({error});
 		}
 	}
 
 	render () {
-		const {email, password} = this.state;
+		const {email, password, error} = this.state;
 		const canSubmit = email && password && EmailValidator.validate(email);
 
 		return (
-			<form className="login-form" onSubmit={this.onSubmit}>
+			<form className="login-form" onSubmit={this.signIn}>
+				{error && <div>Error</div>}
 				{['email', 'password'].map(field => (
 					<input key={field}
 						type={field}
