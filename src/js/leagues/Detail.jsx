@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export default class League extends React.Component {
+export default class LeagueDetail extends React.Component {
 
 	static propTypes = {
 		match: PropTypes.shape({

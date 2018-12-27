@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {Route, Link} from 'react-router-dom';
 
-import League from './League';
+import Detail from './Detail';
 
 export default class LeagueView extends React.Component {
 
@@ -22,7 +22,7 @@ export default class LeagueView extends React.Component {
 			<div className="league-view">
 				(Leagues)
 				<Link to={`${url}/123`}>123</Link>
-				<Route path={`${path}/:id`} component={League} />
+				<Route path={`${path}/:id`} component={Detail} />
 			</div>
 		);
 	}
