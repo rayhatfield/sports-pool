@@ -5,12 +5,13 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background: linear-gradient(
-		var(--background-color-alt) #{$barsize},
-		transparent #{$barsize},
-		transparent calc(100% - #{$barsize}),
-		var(--background-color-alt) calc(100% - #{$barsize})
-	);
+	background:
+		linear-gradient(
+			var(--background-color-alt) #{$barsize},
+			transparent #{$barsize},
+			transparent calc(100% - #{$barsize}),
+			var(--background-color-alt) calc(100% - #{$barsize})
+		);
 
 	> * {
 		flex: 0 0 auto;
