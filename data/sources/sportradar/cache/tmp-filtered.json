@@ -1,0 +1,2242 @@
+{
+	"league": "nfl",
+	"id": "8e45fe2d-fb95-4504-845d-7c815623ccd6",
+	"year": 2018,
+	"type": "REG",
+	"name": "REG",
+	"games": [
+		{
+			"home": "Indianapolis Colts",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 34
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 40,
+				"away": 48
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 20
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-09-11T02:20:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 33
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Washington Redskins",
+			"scheduled": "2018-09-09T20:25:00+00:00",
+			"score": {
+				"home": 6,
+				"away": 24
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 16
+			}
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-09-09T20:25:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 24
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 15,
+				"away": 20
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Chicago Bears",
+			"scheduled": "2018-09-10T00:20:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 23
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "New York Jets",
+			"scheduled": "2018-09-10T23:10:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 48
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-09-09T20:05:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 38
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-09-07T00:20:00+00:00",
+			"score": {
+				"home": 18,
+				"away": 12
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 47,
+				"away": 3
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-09-09T20:25:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 8
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Houston Texans",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 20
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-09-09T17:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 21
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "New England Patriots",
+			"scheduled": "2018-09-16T20:25:23+00:00",
+			"score": {
+				"home": 31,
+				"away": 20
+			}
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-09-16T20:25:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 19
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 37,
+				"away": 42
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-09-14T00:20:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 23
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "New York Giants",
+			"scheduled": "2018-09-17T00:20:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 13
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 9,
+				"away": 21
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 21
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 12,
+				"away": 20
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "Houston Texans",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 17
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 31
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 24
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-09-16T20:05:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 0
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 29,
+				"away": 29
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-09-16T17:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 18
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Detroit Lions",
+			"scheduled": "2018-09-16T20:05:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 27
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-09-18T00:15:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 17
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 21
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "New England Patriots",
+			"scheduled": "2018-09-24T00:20:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 10
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 37,
+				"away": 43
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Denver Broncos",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 14
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 6,
+				"away": 9
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "New York Jets",
+			"scheduled": "2018-09-21T00:20:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 17
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-09-23T20:05:00+00:00",
+			"score": {
+				"home": 35,
+				"away": 23
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 6,
+				"away": 27
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 27
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Chicago Bears",
+			"scheduled": "2018-09-23T20:25:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 16
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 16
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-09-25T00:15:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 30
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-09-23T20:25:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 13
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 20
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 17
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "New York Giants",
+			"scheduled": "2018-09-23T17:00:00+00:00",
+			"score": {
+				"home": 22,
+				"away": 27
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 7
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "Detroit Lions",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 24
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 48,
+				"away": 10
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-09-30T20:25:00+00:00",
+			"score": {
+				"home": 18,
+				"away": 33
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-09-30T20:25:00+00:00",
+			"score": {
+				"home": 29,
+				"away": 27
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 36,
+				"away": 37
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "New York Jets",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 12
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "Houston Texans",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 37
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-09-28T00:20:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 31
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 22,
+				"away": 0
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-09-30T20:05:00+00:00",
+			"score": {
+				"home": 45,
+				"away": 42
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-09-30T17:00:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 23
+			}
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-10-02T00:15:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 27
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-09-30T20:05:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 20
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-10-01T00:20:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 26
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 14
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-10-08T00:20:00+00:00",
+			"score": {
+				"home": 19,
+				"away": 16
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 12,
+				"away": 9
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 23
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Washington Redskins",
+			"scheduled": "2018-10-09T00:15:00+00:00",
+			"score": {
+				"home": 43,
+				"away": 19
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 17
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-10-07T20:25:00+00:00",
+			"score": {
+				"home": 18,
+				"away": 28
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-10-07T20:25:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 33
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 12
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "New York Giants",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 33,
+				"away": 31
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-10-07T20:25:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 23
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Denver Broncos",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 16
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-10-05T00:20:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 24
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-10-07T17:00:00+00:00",
+			"score": {
+				"home": 41,
+				"away": 17
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-10-07T20:05:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 10
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-10-15T00:20:00+00:00",
+			"score": {
+				"home": 43,
+				"away": 40
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-10-12T00:20:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 34
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-10-14T20:25:00+00:00"
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 3,
+				"away": 27
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 42,
+				"away": 34
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 38
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "Chicago Bears",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 28
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 29
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-10-16T00:15:00+00:00",
+			"score": {
+				"home": 33,
+				"away": 30
+			}
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-10-14T20:05:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 23
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 17
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 13
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-10-14T20:25:00+00:00",
+			"score": {
+				"home": 40,
+				"away": 7
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 28
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-10-14T17:00:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 17
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "New York Giants",
+			"scheduled": "2018-10-23T00:15:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 20
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-10-21T20:25:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 17
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "New England Patriots",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 38
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 23
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "Houston Texans",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 7,
+				"away": 20
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 37
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-10-21T20:25:00+00:00",
+			"score": {
+				"home": 10,
+				"away": 39
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 37,
+				"away": 5
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-10-21T13:30:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 19
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Denver Broncos",
+			"scheduled": "2018-10-19T00:20:00+00:00",
+			"score": {
+				"home": 10,
+				"away": 45
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "Detroit Lions",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 32
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-10-21T17:00:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 21
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-10-21T20:05:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 24
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-10-22T00:20:00+00:00",
+			"score": {
+				"home": 45,
+				"away": 10
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-10-28T20:05:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 42
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Denver Broncos",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 23
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-10-28T20:25:00+00:00",
+			"score": {
+				"home": 29,
+				"away": 27
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-10-26T00:20:00+00:00",
+			"score": {
+				"home": 42,
+				"away": 23
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "New England Patriots",
+			"scheduled": "2018-10-30T00:15:00+00:00",
+			"score": {
+				"home": 6,
+				"away": 25
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 33,
+				"away": 18
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 37,
+				"away": 34
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-10-28T13:30:00+00:00",
+			"score": {
+				"home": 18,
+				"away": 24
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-10-28T20:25:00+00:00",
+			"score": {
+				"home": 18,
+				"away": 15
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 36,
+				"away": 21
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "Washington Redskins",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 20
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-10-29T00:20:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 30
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "New York Jets",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 10
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-10-28T17:00:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 28
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-11-04T21:05:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 25
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "Chicago Bears",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 9,
+				"away": 41
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-11-02T00:20:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 3
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 37
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 42,
+				"away": 28
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-11-05T01:20:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 17
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "New York Jets",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 6
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-11-04T21:25:00+00:00",
+			"score": {
+				"home": 45,
+				"away": 35
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 38
+			}
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Houston Texans",
+			"scheduled": "2018-11-04T21:05:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 19
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-11-06T01:15:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 28
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 23
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "Detroit Lions",
+			"scheduled": "2018-11-04T18:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 9
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "New York Giants",
+			"scheduled": "2018-11-13T01:15:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 27
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-11-11T21:25:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 12
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 10,
+				"away": 41
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "New England Patriots",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 10
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-11-11T21:05:00+00:00",
+			"score": {
+				"home": 6,
+				"away": 20
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 51
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-11-09T01:20:00+00:00",
+			"score": {
+				"home": 52,
+				"away": 21
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 14
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "Washington Redskins",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 3,
+				"away": 16
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "Detroit Lions",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 22
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 16
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-11-11T21:25:00+00:00",
+			"score": {
+				"home": 36,
+				"away": 31
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-11-11T18:00:00+00:00",
+			"score": {
+				"home": 29,
+				"away": 26
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-11-12T01:20:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 27
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Houston Texans",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 23
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-11-18T21:05:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 23
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 21
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-11-19T01:20:00+00:00",
+			"score": {
+				"home": 25,
+				"away": 20
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-11-20T01:15:00+00:00",
+			"score": {
+				"home": 54,
+				"away": 51
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 10
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 20
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 19
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Denver Broncos",
+			"scheduled": "2018-11-18T21:05:00+00:00",
+			"score": {
+				"home": 22,
+				"away": 23
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-11-18T21:25:00+00:00",
+			"score": {
+				"home": 48,
+				"away": 7
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 19,
+				"away": 22
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-11-16T01:20:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 24
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-11-18T18:00:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 35
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 17
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "New England Patriots",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 27
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-11-27T01:15:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 17
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-11-25T21:05:00+00:00",
+			"score": {
+				"home": 45,
+				"away": 10
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "New York Giants",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 25,
+				"away": 22
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "Chicago Bears",
+			"scheduled": "2018-11-22T17:30:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 23
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-11-25T21:25:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 24
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 9
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 35
+			}
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-11-25T21:25:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 17
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-11-23T01:20:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 17
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 30
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-11-25T18:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 21
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "Washington Redskins",
+			"scheduled": "2018-11-22T21:30:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 23
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-11-26T01:20:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 17
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "Chicago Bears",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 27
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 26
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-12-02T21:05:00+00:00",
+			"score": {
+				"home": 33,
+				"away": 40
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 20
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 30
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Denver Broncos",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 10,
+				"away": 24
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-12-02T21:25:00+00:00",
+			"score": {
+				"home": 43,
+				"away": 16
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "New York Jets",
+			"scheduled": "2018-12-02T21:05:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 22
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-12-03T01:20:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 33
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-11-30T01:20:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 10
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 17
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 29,
+				"away": 13
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-12-02T18:03:12+00:00",
+			"score": {
+				"home": 6,
+				"away": 0
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Washington Redskins",
+			"scheduled": "2018-12-04T01:15:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 13
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-12-02T18:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 17
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-12-02T21:25:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 10
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Detroit Lions",
+			"scheduled": "2018-12-09T21:25:00+00:00",
+			"score": {
+				"home": 3,
+				"away": 17
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 20
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Denver Broncos",
+			"scheduled": "2018-12-09T21:05:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 14
+			}
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 28
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-12-11T01:15:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 7
+			}
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "New York Giants",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 40
+			}
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 21,
+				"away": 24
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-12-10T01:20:00+00:00",
+			"score": {
+				"home": 15,
+				"away": 6
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-12-07T01:20:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 9
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 24
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-12-09T21:05:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 21
+			}
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 20
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "New York Jets",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 27
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "New England Patriots",
+			"scheduled": "2018-12-09T18:00:00+00:00",
+			"score": {
+				"home": 34,
+				"away": 33
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-12-09T21:25:00+00:00",
+			"score": {
+				"home": 29,
+				"away": 23
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-12-09T21:25:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 21
+			}
+		},
+		{
+			"home": "New York Giants",
+			"away": "Tennessee Titans",
+			"scheduled": "2018-12-16T18:00:00+00:00"
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-12-16T01:20:00+00:00",
+			"score": {
+				"home": 16,
+				"away": 17
+			}
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "New England Patriots",
+			"scheduled": "2018-12-16T21:25:00+00:00",
+			"score": {
+				"home": 17,
+				"away": 10
+			}
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 20,
+				"away": 12
+			}
+		},
+		{
+			"home": "Chicago Bears",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 17
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Houston Texans",
+			"scheduled": "2018-12-15T21:30:00+00:00",
+			"score": {
+				"home": 22,
+				"away": 29
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "New Orleans Saints",
+			"scheduled": "2018-12-18T01:15:00+00:00",
+			"score": {
+				"home": 9,
+				"away": 12
+			}
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "Detroit Lions",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 14,
+				"away": 13
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 41,
+				"away": 17
+			}
+		},
+		{
+			"home": "Cincinnati Bengals",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 30,
+				"away": 16
+			}
+		},
+		{
+			"home": "Atlanta Falcons",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 40,
+				"away": 14
+			}
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-12-14T01:20:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 29
+			}
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-12-17T01:20:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 30
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 23,
+				"away": 0
+			}
+		},
+		{
+			"home": "Jacksonville Jaguars",
+			"away": "Washington Redskins",
+			"scheduled": "2018-12-16T18:00:00+00:00",
+			"score": {
+				"home": 13,
+				"away": 16
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Seattle Seahawks",
+			"scheduled": "2018-12-16T21:05:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 23
+			}
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "Washington Redskins",
+			"scheduled": "2018-12-22T21:30:00+00:00",
+			"score": {
+				"home": 25,
+				"away": 16
+			}
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Pittsburgh Steelers",
+			"scheduled": "2018-12-23T21:25:00+00:00",
+			"score": {
+				"home": 31,
+				"away": 28
+			}
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Kansas City Chiefs",
+			"scheduled": "2018-12-24T01:20:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 31
+			}
+		},
+		{
+			"home": "Detroit Lions",
+			"away": "Minnesota Vikings",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 9,
+				"away": 27
+			}
+		},
+		{
+			"home": "Oakland Raiders",
+			"away": "Denver Broncos",
+			"scheduled": "2018-12-25T01:15:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 14
+			}
+		},
+		{
+			"home": "Carolina Panthers",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 10,
+				"away": 24
+			}
+		},
+		{
+			"home": "Los Angeles Chargers",
+			"away": "Baltimore Ravens",
+			"scheduled": "2018-12-23T01:20:00+00:00",
+			"score": {
+				"home": 10,
+				"away": 22
+			}
+		},
+		{
+			"home": "Indianapolis Colts",
+			"away": "New York Giants",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 28,
+				"away": 27
+			}
+		},
+		{
+			"home": "New York Jets",
+			"away": "Green Bay Packers",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 38,
+				"away": 44
+			}
+		},
+		{
+			"home": "Dallas Cowboys",
+			"away": "Tampa Bay Buccaneers",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 27,
+				"away": 20
+			}
+		},
+		{
+			"home": "Arizona Cardinals",
+			"away": "Los Angeles Rams",
+			"scheduled": "2018-12-23T21:05:00+00:00",
+			"score": {
+				"home": 9,
+				"away": 31
+			}
+		},
+		{
+			"home": "Cleveland Browns",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 26,
+				"away": 18
+			}
+		},
+		{
+			"home": "New England Patriots",
+			"away": "Buffalo Bills",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 24,
+				"away": 12
+			}
+		},
+		{
+			"home": "Philadelphia Eagles",
+			"away": "Houston Texans",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 32,
+				"away": 30
+			}
+		},
+		{
+			"home": "Miami Dolphins",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-12-23T18:00:00+00:00",
+			"score": {
+				"home": 7,
+				"away": 17
+			}
+		},
+		{
+			"home": "San Francisco 49ers",
+			"away": "Chicago Bears",
+			"scheduled": "2018-12-23T21:05:00+00:00",
+			"score": {
+				"home": 9,
+				"away": 14
+			}
+		},
+		{
+			"home": "Minnesota Vikings",
+			"away": "Chicago Bears",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "Baltimore Ravens",
+			"away": "Cleveland Browns",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "New England Patriots",
+			"away": "New York Jets",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "Tennessee Titans",
+			"away": "Indianapolis Colts",
+			"scheduled": "2018-12-31T01:20:00+00:00"
+		},
+		{
+			"home": "Seattle Seahawks",
+			"away": "Arizona Cardinals",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "Denver Broncos",
+			"away": "Los Angeles Chargers",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "Green Bay Packers",
+			"away": "Detroit Lions",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "Tampa Bay Buccaneers",
+			"away": "Atlanta Falcons",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "Los Angeles Rams",
+			"away": "San Francisco 49ers",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "Washington Redskins",
+			"away": "Philadelphia Eagles",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "Houston Texans",
+			"away": "Jacksonville Jaguars",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "New York Giants",
+			"away": "Dallas Cowboys",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "Buffalo Bills",
+			"away": "Miami Dolphins",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "Kansas City Chiefs",
+			"away": "Oakland Raiders",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		},
+		{
+			"home": "New Orleans Saints",
+			"away": "Carolina Panthers",
+			"scheduled": "2018-12-30T18:00:00+00:00"
+		},
+		{
+			"home": "Pittsburgh Steelers",
+			"away": "Cincinnati Bengals",
+			"scheduled": "2018-12-30T21:25:00+00:00"
+		}
+	],
+	"_comment": "Generation started @ 2018-12-29 08:42:01 +0000 ended @ 2018-12-29 08:42:02 +0000"
+}
