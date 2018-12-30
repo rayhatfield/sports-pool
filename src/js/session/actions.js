@@ -23,13 +23,16 @@ const actions = {
 
 export async function setUp (user, store) {
 	try {
+		store.set('loading', true);
 		//TODO: handle errors
-		Promise.all(Object.values(actions)
-			.map(action => action(user, store)));
+		await Promise.all(Object.values(actions)
+			.map(action => action(user, store))
+		);
 	}
 	catch (e) {
 		console.error(e);
 	}
+	store.set('loading', false);
 }
 
 export function tearDown (prevUser, store) {
