@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import firebase from '../firebase';
 import connect from '../Store';
 
-import {setUp, tearDown} from './actions';
+import {setUp, tearDown} from './auth-listener-actions';
 
 export default
 @connect('user')

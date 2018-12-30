@@ -2,8 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import App from 'app';
-import Login from 'login';
-import {AuthListener} from 'session';
+import {default as Login, AuthListener} from 'login';
 
 import connect from './Store';
 
