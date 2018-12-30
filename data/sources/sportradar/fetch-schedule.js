@@ -47,7 +47,8 @@ function get (url) {
 }
 
 async function getSchedule (league = 'nfl', year = new Date().getFullYear()) {
-	// http://api.sportradar.us/nfl/official/trial/v5/en/games/2018/REG/schedule.json?api_key=ghtwvg7bbqbdu8ngfar3rgfw
+	// http://api.sportradar.us/nfl/official/trial/v5/en/games/2018/REG/schedule.json?api_key=xxxx
+	// http://api.sportradar.us/ncaafb-t1/2018/REG/schedule.json?api_key=xxxx
 	const url = `https://api.sportradar.us/${league}/official/trial/v5/en/games/${year}/REG/schedule.json?api_key=${apiKey}`;
 	try {
 		const data = await get(url);

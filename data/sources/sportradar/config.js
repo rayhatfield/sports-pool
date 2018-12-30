@@ -1,7 +1,5 @@
-const fs = require('fs');
-
-const apiKey = fs.readFileSync(require.resolve('./.api-key')).toString().trim();
+const apiKeys = require('./.api-keys.json');
 
 module.exports = {
-	apiKey
+	apiKeys
 };
