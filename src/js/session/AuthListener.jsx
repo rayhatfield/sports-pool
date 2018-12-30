@@ -7,9 +7,7 @@ import connect from '../Store';
 import {setUp, tearDown} from './actions';
 
 export default
-@connect({
-	'user': 'user'
-})
+@connect(['user'])
 class AuthListener extends React.Component {
 
 	static propTypes = {

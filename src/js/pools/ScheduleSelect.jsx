@@ -5,9 +5,7 @@ import cx from 'classnames';
 import connect from '../Store';
 
 export default
-@connect({
-	'schedules': 'schedules'
-})
+@connect(['schedules'])
 class ScheduleSelect extends React.Component {
 
 	static propTypes = {
@@ -31,7 +29,7 @@ class ScheduleSelect extends React.Component {
 
 	render () {
 		const {className, value, schedules} = this.props;
-		
+
 		return (
 			<select className={cx('schedule-select', className)}
 				value={value}

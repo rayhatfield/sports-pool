@@ -23,7 +23,12 @@ class Store extends Emitter {
 
 const store = new Store();
 
-export default function connect (propMap) {
+export default function connect (connectProps) {
+
+	const propMap = Array.isArray(connectProps)
+		? connectProps.reduce((acc, p) => ({...acc, [p]: p}), {})
+		: connectProps;
+
 	return function (Cmp) {
 		return (
 			class Connected extends React.Component {
