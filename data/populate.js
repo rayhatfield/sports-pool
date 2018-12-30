@@ -15,7 +15,7 @@ admin.initializeApp({
 async function go () {
 	const db = admin.firestore();
 	const {games} = await sportradar();
-	const collection = await db.collection('/leagues/nfl/seasons/2018-reg/games');
+	const collection = await db.collection('/schedules/nfl-2018-reg/games');
 	const dateStr = x => (/\d{4}-\d{2}-\d{2}/).exec(x)[0];
 	const teamStr = x => /\w+$/.exec(x)[0]; // last word should be team name
 	games.map(async g => {
@@ -24,6 +24,5 @@ async function go () {
 		collection.doc(id).set(g);
 	});
 }
-
 
 go();
