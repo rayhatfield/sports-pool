@@ -1,0 +1,17 @@
+.create-pool {
+	.create-pool-fields {
+		display: flex;
+
+		> * {
+			flex: 1 1 auto;
+		}
+
+		input[type=number] {
+			max-width: 5em;
+		}
+
+		button {
+			padding: 0 2rem;
+		}
+	}
+}

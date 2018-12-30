@@ -5,6 +5,7 @@ import {Link} from 'react-router-dom';
 import {SemanticList as List} from 'common';
 
 import * as api from './api';
+import CreatePool from './CreatePool';
 
 export default class PoolList extends React.Component {
 
@@ -36,6 +37,7 @@ export default class PoolList extends React.Component {
 				<header>
 					<h1>Pools</h1>
 				</header>
+				<CreatePool />
 				<List className="pools-list">
 					{(pools || []).map(p => (
 						<li key={p.id}>
