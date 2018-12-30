@@ -8,7 +8,7 @@ import {AuthListener} from 'session';
 import connect from './Store';
 
 export default
-@connect(['user'])
+@connect('user')
 class View extends React.Component {
 	static propTypes = {
 		user: PropTypes.object

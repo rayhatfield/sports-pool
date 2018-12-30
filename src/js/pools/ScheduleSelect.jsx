@@ -5,7 +5,7 @@ import cx from 'classnames';
 import connect from '../Store';
 
 export default
-@connect(['schedules'])
+@connect('schedules')
 class ScheduleSelect extends React.Component {
 
 	static propTypes = {

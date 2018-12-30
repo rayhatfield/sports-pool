@@ -23,11 +23,20 @@ class Store extends Emitter {
 
 const store = new Store();
 
-export default function connect (connectProps) {
+const arrayToObject = arr => (arr || []).reduce((acc, p) => ({...acc, [p]: p}), {});
 
-	const propMap = Array.isArray(connectProps)
-		? connectProps.reduce((acc, p) => ({...acc, [p]: p}), {})
-		: connectProps;
+function makePropMap (args) {
+	const first = args[0];
+	return typeof first === 'object'
+		? args
+		: Array.isArray(first)
+			? arrayToObject(first)
+			: arrayToObject(args);
+}
+
+export default function connect (...connectProps) {
+
+	const propMap = makePropMap(connectProps);
 
 	return function (Cmp) {
 		return (
