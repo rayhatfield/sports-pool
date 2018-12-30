@@ -10,6 +10,4 @@ async function update () {
 	return filtered;
 }
 
-update();
-
 module.exports = update;
